@@ -2,4 +2,4 @@
 
 | number | title | solution | description |
 | ------ | ----- | -------- | ----------- |
-| 1 | Two Sum | - | - |
+| 1 | Two Sum(link) | JavaScript | - |
