@@ -1,2 +1,2 @@
 # LeetCode Solution Repository
-|number|title|solution|description|
+| number | title | solution | description |
