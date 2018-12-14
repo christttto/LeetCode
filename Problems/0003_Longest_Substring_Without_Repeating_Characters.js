@@ -5,21 +5,26 @@
 var lengthOfLongestSubstring = function(s) {
     var currSStart=0;
     var currSFinish=0;
-    var currS=s.substring(currSStart,currSFinish);
+    var finalS="";
     var testS;
 
     for(var i=0;i<s.length;i++){
         testS=s[i];
-        if(!currS.includes(testS)){//if the next is not included in the original
+        if(!s.substring(currSStart,currSFinish).includes(testS)){
+            //if the next is not included in the original
             currSFinish++;
-            currS=s.substring(currSStart,currSFinish);
-            console.log(currS);
+            if(s.substring(currSStart,currSFinish).length>=finalS.length){
+                finalS=s.substring(currSStart,currSFinish);
+            }
         }
-        else{//so if it is in there, cut to the overlap,
-
+        else{
+            var location=s.substring(currSStart,currSFinish).search(testS);
+            currSStart = currSStart+location+1;
+            currSFinish++;
         }
     }
-    return currS.length;
+    //console.log("final answer"+finalS);
+    return finalS.length;
 
     //
 };
