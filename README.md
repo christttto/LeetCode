@@ -8,3 +8,4 @@
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0007_Reverse_Integer/0007_Reverse_Integer.js) |  |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0009_Palindrome_Number/0009_Palindrome_Number.js) |  |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0009_Palindrome_Number/0009_Palindrome_Number.js) |  |
+| 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0014_Longest_Common_Prefix/0014_Longest_Common_Prefix.js) |  |
