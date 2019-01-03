@@ -3,17 +3,20 @@
  * @return {string}
  */
 var countAndSay = function(n) {
-    var returnStr="1";
-    var i;
-    var currentChar;
-    var currentCount=1;
-    for(i=0;i<returnStr.length-1;i++){//need to think about case with length 1
-        currentChar=returnStr[i];
-        while(currentChar=)
-        if(returnStr[i]==returnStr[i+1]){
-            currentCount++;
-        }
+    if(n<=1){
+        return "1";
     }
-    
+    var curStr=n.toString();
+    var curNum=curStr.charAt(0);
+    var curNumCount=1;
+    var i=1;
+    while(i<curStr.length){//loop until the end
+        if(curNum==curStr.charAt(i)){
+            curNumCount++;
+            //not count going up
+            curStr.splice(i,1);
+        }
+        
+    }
     
 };
