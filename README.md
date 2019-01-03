@@ -11,3 +11,4 @@
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0014_Longest_Common_Prefix/0014_Longest_Common_Prefix.js) |  |
 | 0020 | [Valid_Parentheses](https://leetcode.com/problems/valid-parentheses/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0020_Valid_Parentheses/0020_Valid_Parentheses.js) |  |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0021_Merge_Two_Sorted_Lists/0021_Merge_Two_Sorted_Lists.js) |  |
+| 0035 | [Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0035_Search_Insert_Position/0035_Search_Insert_Position.js) |  |
