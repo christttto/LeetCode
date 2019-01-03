@@ -13,4 +13,5 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0021_Merge_Two_Sorted_Lists/0021_Merge_Two_Sorted_Lists.js) |  |
 | 0026 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0026_Remove_Duplicates_From_Sorted_Array/0026_Remove_Duplicates_From_Sorted_Array.js) |  |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0027_Remove_Element/0027_Remove_Element.js) |  |
+| 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0028_Implement_strStr/0028_Implement_strStr.js) |  |
 | 0035 | [Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0035_Search_Insert_Position/0035_Search_Insert_Position.js) |  |
