@@ -6,17 +6,19 @@ var countAndSay = function(n) {
     if(n<=1){
         return "1";
     }
-    var curStr=n.toString();
-    var curNum=curStr.charAt(0);
-    var curNumCount=1;
-    var i=1;
-    while(i<curStr.length){//loop until the end
-        if(curNum==curStr.charAt(i)){
-            curNumCount++;
-            //not count going up
-            curStr.splice(i,1);
+    var i;
+    var curStr="1";
+    for(i=0;i<n;i++){//loops for n times
+        var curLen=curStr.length;
+        for(j=0;j<curLen-1;j++){//looping on individual n
+            var countRe=1;
+            var curChar=curStr[j];
+            while(curStr[j+1]==curChar){
+                countRe++;
+                //remove curStr[j+1] from string
+                curStr.
+            }
         }
-        
     }
     
 };
