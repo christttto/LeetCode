@@ -16,37 +16,35 @@ class Solution {
                 return null;
             }
         }
-        else if(l1==null){
-            int myCarry=0;
-            if(carry==1){
-                l2.val++;
-                if(carry+l2.val>=10){
-                    myCarry++;
-                }
-            }
-            ListNode myNode = new ListNode((carry+l2.val)%10);
-            myNode.next = addTwoNumbersHelper(null,l2.next,myCarry);
-            return myNode;
-        }
-        else if(l2==null){
-            int myCarry=0;
-            if(carry==1){
-                l1.val++;
-                if(carry+l1.val>=10){
-                    myCarry++;
-                }
-            }
-            ListNode myNode = new ListNode((carry+l1.val)%10);
-            myNode.next = addTwoNumbersHelper(l1.next,null,myCarry);
-            return myNode;
-        }
         else{
             int myCarry=0;
-            if((l1.val+l2.val+carry)>=10){
+            int l1Val;
+            int l2Val;
+            if(l1==null){
+                l1Val=0;
+            }
+            else{
+                l1Val=l1.val;
+            }
+            if(l2==null){
+                l2Val=0;
+            }
+            else{
+                l2Val=l2.val;
+            }
+            if((l1Val+l2Val+carry)>=10){
                 myCarry++;
             }
-            ListNode myNode = new ListNode((l1.val+l2.val+carry)%10);
-            myNode.next = addTwoNumbersHelper(l1.next,l2.next,myCarry);
+            ListNode myNode = new ListNode((l1Val+l2Val+carry)%10);
+            if(l1==null){
+                myNode.next = addTwoNumbersHelper(null,l2.next,myCarry);
+            }
+            else if(l2==null){
+                myNode.next = addTwoNumbersHelper(l1.next,null,myCarry);
+            }
+            else{
+                myNode.next = addTwoNumbersHelper(l1.next,l2.next,myCarry);
+            }
             return myNode;
         }
     }
