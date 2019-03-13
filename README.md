@@ -16,3 +16,14 @@
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0028_Implement_strStr/0028_Implement_strStr.js) |  |
 | 0035 | [Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0035_Search_Insert_Position/0035_Search_Insert_Position.js) |  |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
