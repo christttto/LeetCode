@@ -1,19 +1,22 @@
 class Solution {
     public boolean isValid(String s) {
-        Deque sStack = new ArrayDeque();
+        Stack<Character> sStack = new Stack<Character>();
         for(int i=0;i<s.length();i++){
-            if(s.charAt(i)==')'){
-                if(sStack.poll().toString()!="(") return false;
-                //System.out.println(sStack.)
+            char c=s.charAt(i);
+            if(c==')'){
+                char top = sStack.empty()?'#':sStack.pop();
+                if(top!='(')return false;
             }
-            else if(s.charAt(i)=='}'){
-            if(sStack.poll().toString()!="{") return false;
+            else if(c=='}'){
+                char top = sStack.empty()?'#':sStack.pop();
+                if(top!='{')return false;
             }
-            else if(s.charAt(i)==']'){
-                if(sStack.poll().toString()!="[") return false;
+            else if(c==']'){
+                char top = sStack.empty()?'#':sStack.pop();
+                if(top!='[')return false;
             }
             else{
-                sStack.push(s.charAt(i));
+                sStack.push(c);
             }
         }
         return sStack.isEmpty();
