@@ -16,14 +16,14 @@
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0028_Implement_strStr/0028_Implement_strStr.js) |  |
 | 0035 | [Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0035_Search_Insert_Position/0035_Search_Insert_Position.js) |  |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0053 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0058 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0066 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0067 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0069 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0070 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0083 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0100 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0101 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0118 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0121 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0053 | [Maximum_Subarray](https://leetcode.com/problems/Maximum_Subarray/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0058 | [Length_of_Last_Word](https://leetcode.com/problems/Length_of_Last_Word/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0066 | [Plus_One](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0067 | [Add_Binary](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0069 | [Sqrt](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0070 | [Climbing_Stairs](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0083 | [Remove_Duplicates_from_Sorted_List](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0100 | [Same_Tree](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0101 | [Symmetric_Tree](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0118 | [Pascals_Triangle](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0121 | [Best_Time_to_Buy_and_Sell_Stock](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
