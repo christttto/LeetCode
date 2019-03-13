@@ -16,8 +16,8 @@
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0028_Implement_strStr/0028_Implement_strStr.js) |  |
 | 0035 | [Search_Insert_Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0035_Search_Insert_Position/0035_Search_Insert_Position.js) |  |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0053 | [Maximum_Subarray](https://leetcode.com/problems/Maximum_Subarray/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0058 | [Length_of_Last_Word](https://leetcode.com/problems/Length_of_Last_Word/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0053 | [Maximum_Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0053_Maximum_Subarray/0053_Maximum_Subarray.js) |  |
+| 0058 | [Length_of_Last_Word](https://leetcode.com/problems/Length_of_Last_Word/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0058_Length_of_Last_Word/0058_Length_of_Last_Word.js) |  |
 | 0066 | [Plus_One](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
 | 0067 | [Add_Binary](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
 | 0069 | [Sqrt](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
