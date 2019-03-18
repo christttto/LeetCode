@@ -21,9 +21,9 @@
 | 0066 | [Plus_One](https://leetcode.com/problems/plus-one/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0066_Plus_One/0066_Plus_One.js) |  |
 | 0067 | [Add_Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0067_Add_Binary/0067_Add_Binary.js) |  |
 | 0069 | [Sqrt](https://leetcode.com/problems/sqrtx/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0069_Sqrt/0069_Sqrt.js) |  |
-| 0070 | [Climbing_Stairs](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0083 | [Remove_Duplicates_from_Sorted_List](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0100 | [Same_Tree](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0101 | [Symmetric_Tree](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0118 | [Pascals_Triangle](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
-| 0121 | [Best_Time_to_Buy_and_Sell_Stock](https://leetcode.com/problems/count-and-say/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0038_Count_And_Say/0038_Count_And_Say.js) |  |
+| 0070 | [Climbing_Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0070_Climbing_Stairs/0070_Climbing_Stairs.js) |  |
+| 0083 | [Remove_Duplicates_from_Sorted_List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0083_Remove_Duplicates_from_Sorted_List/0083_Remove_Duplicates_from_Sorted_List.js) |  |
+| 0100 | [Same_Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0100_Same_Tree/0100_Same_Tree.js) |  |
+| 0101 | [Symmetric_Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0101_Symmetric_Tree/0101_Symmetric_Tree.java) |  |
+| 0118 | [Pascals_Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0118_Pascals_Triangle/0118_Pascals_Triangle.java) |  |
+| 0121 | [Best_Time_to_Buy_and_Sell_Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0121_Best_Time_to_Buy_and_Sell_Stock/0121_Best_Time_to_Buy_and_Sell_Stock.java) |  |
