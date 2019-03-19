@@ -29,5 +29,21 @@ class Solution {
 			because the leaf will always be smaller than the
 			super root, by the definition of the tree.
     	*/
+        Stack<TreeNode> myStack = new Stack<TreeNode>();
+        int i=0;
+        TreeNode myNode = root;
+        while(!myStack.isEmpty()||myNode!=null){
+            if(myNode!=null){
+                myStack.push(myNode);//potential solution to look at
+                myNode = myNode.left;//for now, go deeper
+            }
+            else{//okay, so it is left leaf
+                TreeNode thisNode = myStack.pop();
+                if(++i==k) return thisNode.val;//if this is kth istance of looking return
+                //havent done enough, so must go deeper, right side now
+                myNode = thisNode.right;
+            }
+        }
+        return root.val;
     }
 }
