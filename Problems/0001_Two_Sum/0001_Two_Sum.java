@@ -1,11 +1,16 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer,Integer> map=new HashMap<Integer,Integer>();
+        //create set
+        //iterate through the set to find where set.contains(target-nums[i]);
+        //create hashmap of <nums[i],i>
+        HashMap<Integer,Integer> myMap = new HashMap<Integer,Integer>();
         for(int i=0;i<nums.length;i++){
-            if(map.containsKey(target-nums[i])){
-                return new int[]{map.get(target-nums[i]),i};
+            if(myMap.containsKey(target-nums[i])){
+                return new int[]{i,myMap.get(target-nums[i])};
             }
-            map.put(nums[i],i);
+            else{
+                myMap.put(nums[i],i);
+            }
         }
         return null;
     }
