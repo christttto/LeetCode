@@ -5,8 +5,10 @@
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0001_Two_Sum/0001_Two_Sum.java) [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0001_Two_Sum/0001_Two_Sum.js) |  |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0002_Add_Two_Numbers/0002_Add_Two_Numbers.java) [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0002_Add_Two_Numbers/0002_Add_Two_Numbers.js) |  |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0003_Longest_Substring_Without_Repeating_Characters/0003_Longest_Substring_Without_Repeating_Character.java) [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0003_Longest_Substring_Without_Repeating_Characters/0003_Longest_Substring_Without_Repeating_Characters.js) |  |
+| 0004 | [The_Sky_Line_Problem]() | [Java]() |  |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0007_Reverse_Integer/0007_Reverse_Integer.js) |  |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0009_Palindrome_Number/0009_Palindrome_Number.js) |  |
+| 0011 | [The_Sky_Line_Problem]() | [Java]() |  |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0009_Palindrome_Number/0009_Palindrome_Number.js) |  |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0014_Longest_Common_Prefix/0014_Longest_Common_Prefix.js) |  |
 | 0020 | [Valid_Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0020_Valid_Parentheses/0020_Valid_Parentheses.java) [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0020_Valid_Parentheses/0020_Valid_Parentheses.js) |  |
@@ -27,4 +29,55 @@
 | 0101 | [Symmetric_Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0101_Symmetric_Tree/0101_Symmetric_Tree.java) |  |
 | 0118 | [Pascals_Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0118_Pascals_Triangle/0118_Pascals_Triangle.java) |  |
 | 0121 | [Best_Time_to_Buy_and_Sell_Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0121_Best_Time_to_Buy_and_Sell_Stock/0121_Best_Time_to_Buy_and_Sell_Stock.java) |  |
-| 0218 | [The_Sky_Line_Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0218_The_Skyline_Problem/0218_The_Skyline_Problem.java) |  |
+| 0125 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0167 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0175 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0176 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0218 | [The_Sky_Line_Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](https://github.com/christttto/LeetCode/blob/master/
+Problems/0218_The_Skyline_Problem/0218_The_Skyline_Problem.java) |  |
+| 0326 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0338 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0343 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0347 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0349 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0529 | [The_Sky_Line_Problem]() | [Java]() |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
