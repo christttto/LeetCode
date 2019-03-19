@@ -20,6 +20,14 @@ class Solution {
 			smallest.
 			Therefore, the value of that node was
 			returned immediately.
+
+			Also, the stack was used to keep opening the node
+			until the left was empty. Then, the first node without
+			left was examined, because that must have been
+			the smallest.
+			then, the right of that node was examined,
+			because the leaf will always be smaller than the
+			super root, by the definition of the tree.
     	*/
         int i = 0;
         TreeNode myNode = root;
