@@ -38,9 +38,9 @@ Problems/0218_The_Skyline_Problem/0218_The_Skyline_Problem.java) |  |
 | 0326 | [Power_of_Three](https://leetcode.com/problems/power-of-three/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0326_Power_of_Three/0326_Power_of_Three.java) |  |
 | 0338 | [Counting_Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0338_Counting_Bits/0338_Counting_Bits.java) |  |
 | 0343 | [Integer_Break](https://leetcode.com/problems/integer-break/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0343_Integer_Break/0343_Integer_Break.java) |  |
-| 0347 | [The_Sky_Line_Problem]() | [Java]() |  |
-| 0349 | [The_Sky_Line_Problem]() | [Java]() |  |
-| 0529 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0347 | [Top_K_Frequent_Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0347_Top_K_Frequent_Elements/0347_Top_K_Frequent_Elements.java) |  |
+| 0349 | [Intersection_of_Two_Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0349_Intersection_of_Two_Arrays/0349_Intersection_of_Two_Arrays.java) |  |
+| 0592 | [Fraction_Addition_and_Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0529_Fraction_Addition_and_Subtraction/0529_Fraction_Addition_and_Subtraction.java) |  |
 
 
 
