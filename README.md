@@ -40,7 +40,7 @@
 | 0343 | [Integer_Break](https://leetcode.com/problems/integer-break/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0343_Integer_Break/0343_Integer_Break.java) |  |
 | 0347 | [Top_K_Frequent_Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0347_Top_K_Frequent_Elements/0347_Top_K_Frequent_Elements.java) |  |
 | 0349 | [Intersection_of_Two_Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0349_Intersection_of_Two_Arrays/0349_Intersection_of_Two_Arrays.java) |  |
-| 0507 | [Perfect_Number](https://leetcode.com/problems/perfect-number/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0507_Perfect_Number/0507_Perfect_Number.java) |  |
+| 0507 | [Perfect_Number](https://leetcode.com/problems/perfect-number/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0507_Perfect_Number/0507_Perfect_Number.java) | Faster way to get all the divisor is by iterating upto sqrt(n) to find all the divisors |
 | 0592 | [Fraction_Addition_and_Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0592_Fraction_Addition_and_Subtraction/0592_Fraction_Addition_and_Subtraction.java) |  |
 
 
