@@ -33,13 +33,14 @@
 | 0167 | [The_Sky_Line_Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0167_Two_Sum_II/0167_Two_Sum_II.java) |  |
 | 0175 | [Combine_Two_Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](https://github.com/christttto/LeetCode/blob/master/Problems/0175_Combine_Two_Tables/0175_Combine_Two_Tables.sql) |  |
 | 0176 | [Second_Highest_Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](https://github.com/christttto/LeetCode/blob/master/Problems/0176_Second_Highest_Salary/0176_Second_Highest_Salary.sql) |  |
-| 0218 | [The_Sky_Line_Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](https://github.com/christttto/LeetCode/blob/master/
-Problems/0218_The_Skyline_Problem/0218_The_Skyline_Problem.java) |  |
+| 0218 | [The_Sky_Line_Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0218_The_Skyline_Problem/0218_The_Skyline_Problem.java) |  |
+| 0230 | [Kth_Smallest_Element_in_a_BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0230_Kth_Smallest_Element_in_a_BST/0230_Kth_Smallest_Element_in_a_BST.java) |  |
 | 0326 | [Power_of_Three](https://leetcode.com/problems/power-of-three/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0326_Power_of_Three/0326_Power_of_Three.java) |  |
 | 0338 | [Counting_Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0338_Counting_Bits/0338_Counting_Bits.java) |  |
 | 0343 | [Integer_Break](https://leetcode.com/problems/integer-break/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0343_Integer_Break/0343_Integer_Break.java) |  |
 | 0347 | [Top_K_Frequent_Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0347_Top_K_Frequent_Elements/0347_Top_K_Frequent_Elements.java) |  |
 | 0349 | [Intersection_of_Two_Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0349_Intersection_of_Two_Arrays/0349_Intersection_of_Two_Arrays.java) |  |
+| 0507 | [Perfect_Number](https://leetcode.com/problems/perfect-number/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0507_Perfect_Number/0507_Perfect_Number.java) |  |
 | 0592 | [Fraction_Addition_and_Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0592_Fraction_Addition_and_Subtraction/0592_Fraction_Addition_and_Subtraction.java) |  |
 
 
