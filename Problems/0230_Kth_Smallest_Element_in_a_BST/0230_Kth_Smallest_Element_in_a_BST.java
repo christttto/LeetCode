@@ -9,13 +9,18 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        //bst
-        //helper function to iterate
-        //create priority queue and have k elements
-        //or even, find the root of the left most leaf
-        //dfs k times
-        //assign local value to root,
-        //execute k times where it would return value of the next lowest
+    	/*
+			So what it was, a variation of tree search
+			in order of Left, Root, Right.
+			It also needed a counter outside to see
+			how many search had to be made.
+			that is where the i is being used.
+			The moment counter hits k,
+			it knows that this will be the kth
+			smallest.
+			Therefore, the value of that node was
+			returned immediately.
+    	*/
         int i = 0;
         TreeNode myNode = root;
         Stack<TreeNode> myStack = new Stack<TreeNode>();
