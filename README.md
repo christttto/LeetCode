@@ -29,15 +29,15 @@
 | 0101 | [Symmetric_Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0101_Symmetric_Tree/0101_Symmetric_Tree.java) |  |
 | 0118 | [Pascals_Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0118_Pascals_Triangle/0118_Pascals_Triangle.java) |  |
 | 0121 | [Best_Time_to_Buy_and_Sell_Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0121_Best_Time_to_Buy_and_Sell_Stock/0121_Best_Time_to_Buy_and_Sell_Stock.java) |  |
-| 0125 | [The_Sky_Line_Problem]() | [Java]() |  |
-| 0167 | [The_Sky_Line_Problem]() | [Java]() |  |
-| 0175 | [The_Sky_Line_Problem]() | [Java]() |  |
-| 0176 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0125 | [Valid_Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0125_Valid_Palindrome/0125_Valid_Palindrome.java) |  |
+| 0167 | [The_Sky_Line_Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0167_Two_Sum_II/0167_Two_Sum_II.java) |  |
+| 0175 | [Combine_Two_Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](https://github.com/christttto/LeetCode/blob/master/Problems/0175_Combine_Two_Tables/0175_Combine_Two_Tables.sql) |  |
+| 0176 | [Second_Highest_Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](https://github.com/christttto/LeetCode/blob/master/Problems/0176_Second_Highest_Salary/0176_Second_Highest_Salary.sql) |  |
 | 0218 | [The_Sky_Line_Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](https://github.com/christttto/LeetCode/blob/master/
 Problems/0218_The_Skyline_Problem/0218_The_Skyline_Problem.java) |  |
-| 0326 | [The_Sky_Line_Problem]() | [Java]() |  |
-| 0338 | [The_Sky_Line_Problem]() | [Java]() |  |
-| 0343 | [The_Sky_Line_Problem]() | [Java]() |  |
+| 0326 | [Power_of_Three](https://leetcode.com/problems/power-of-three/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0326_Power_of_Three/0326_Power_of_Three.java) |  |
+| 0338 | [Counting_Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0338_Counting_Bits/0338_Counting_Bits.java) |  |
+| 0343 | [Integer_Break](https://leetcode.com/problems/integer-break/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0343_Integer_Break/0343_Integer_Break.java) |  |
 | 0347 | [The_Sky_Line_Problem]() | [Java]() |  |
 | 0349 | [The_Sky_Line_Problem]() | [Java]() |  |
 | 0529 | [The_Sky_Line_Problem]() | [Java]() |  |
