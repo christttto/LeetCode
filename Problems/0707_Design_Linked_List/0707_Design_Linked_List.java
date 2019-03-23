@@ -2,11 +2,6 @@ class MyLinkedList {
 
     /** Initialize your data structure here. */
     public MyLinkedList() {
-        int val;
-        MyLinkedList next;
-        MyLinkedLIst(int n){
-            val = n;
-        }
     }
     
     /** Get the value of the index-th node in the linked list. If the index is invalid, return -1. */
