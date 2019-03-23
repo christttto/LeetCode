@@ -38,6 +38,7 @@
 | 0176 | [Second_Highest_Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](https://github.com/christttto/LeetCode/blob/master/Problems/0176_Second_Highest_Salary/0176_Second_Highest_Salary.sql) |  |
 | 0218 | [The_Sky_Line_Problem](https://leetcode.com/problems/the-skyline-problem/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0218_The_Skyline_Problem/0218_The_Skyline_Problem.java) |  |
 | 0230 | [Kth_Smallest_Element_in_a_BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0230_Kth_Smallest_Element_in_a_BST/0230_Kth_Smallest_Element_in_a_BST.java) |  |
+| 0257 | [Binary_Tree_Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0257_Binary_Tree_Paths/0257_Binary_Tree_Paths.java) |  |
 | 0326 | [Power_of_Three](https://leetcode.com/problems/power-of-three/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0326_Power_of_Three/0326_Power_of_Three.java) |  |
 | 0338 | [Counting_Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0338_Counting_Bits/0338_Counting_Bits.java) |  |
 | 0343 | [Integer_Break](https://leetcode.com/problems/integer-break/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0343_Integer_Break/0343_Integer_Break.java) |  |
