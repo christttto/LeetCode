@@ -59,7 +59,7 @@
 | 0811 | [Subdomain_Visit_Count](https://leetcode.com/problems/subdomain-visit-count/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0811_Subdomain_Visit_Count/0811_Subdomain_Visit_Count.java) | Started with pseudocode first, got the logic all the way down, then started to fill out the actual code. Did not finish implementation. Finish later. |
 | 0840 | [Magic_Squares_In_Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0840_Magic_Squares_In_Grid/0840_Magic_Squares_In_Grid.java) | Very boring question. Some parts can be more efficient, but really it comes down to creating boundary check and going in time complexity of n. Not finished. |
 | 0896 | [Monotonic_Array](https://leetcode.com/problems/monotonic-array/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0896_Monotonic_Array/0896_Monotonic_Array.java) | Dived straight into coding. Not bad for pulling right answer from frist try, but not took longer than expected. Also was distracted. Should try to handwrite first than go into coding. |
-
+| 1002 | [Find_Common_Characters](https://leetcode.com/problems/find-common-characters/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/1002_Find_Common_Characters/1002_Find_Common_Characters.java) | Had the idea, but had hard time coding it in. Need to finish. |
 
 
 
