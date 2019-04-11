@@ -1,32 +1,27 @@
 class Solution {
     public List<String> commonChars(String[] A) {
-        Map commonChars = new HashMap<char>();
-        for(char c:A[0]){
-            if(commonChars.contains(c)){
-                commonChars.replace(c,commonChars.get(c)++);
+        int[] common = new int[26];
+        for(char c:A[0].toCharArray()){
+            common[c - 'a']++;
+        }
+        for(int i=1;i<A.length;i++){
+            int[] myChars = new int[26];
+            for(char c:A[i].toCharArray()){
+                myChars[c - 'a']++;
             }
-            else{
-                commonChars.put(c,1);
+            for(int j=0;j<26;j++){
+                if(myChars[j]>common[j]){
+                    myChars[j]=common[j];
+                }
+            }
+            common = myChars;
+        }
+        List commonChars = new ArrayList<String>();
+        for(int i=0;i<26;i++){
+            for(int j=0; j<common[i];j++){
+                commonChars.add(Character.toString((char) ('a' + i)));    
             }
         }
-        for(String word: A){
-            Map myChars = new HashMap<char>();
-            for(char c:word){
-                if(myChars.contains(c)){
-                    myChars.replace(c,myChars.get(c)++);
-                }
-                else{
-                    myChars.put(c,1);
-                }
-            }
-            for(char c:commonChars.keySet()){//cross checking
-                if(myChars.containsKey(c)){
-                    if(myChars.get(c)>commonChars.get(c)){
-                        myChars.replace(c,commonChars.get(c));
-                    }
-                }
-            }
-        }
-        
+        return commonChars;
     }
 }
