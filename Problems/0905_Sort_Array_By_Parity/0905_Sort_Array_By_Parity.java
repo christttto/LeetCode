@@ -1,16 +1,19 @@
 class Solution {
     public int[] sortArrayByParity(int[] A) {
-        ArrayList<Integer> evenList = new ArrayList<Integer>();
-        ArrayList<Integer> oddList = new ArrayList<Integer>();
-        for(int n:A){
-            if(n%2==0){
-                evenList.add(n);
+        for(int i=0,j=-1;i<A.length;i++){//i will be for increment
+            if(A[i]%2==1&&j==-1){//first odd after even
+                j=i;
+                
             }
             else{
-                oddList.add(n);
+                if(A[i]%2==0&&j!=-1){
+                    int t= A[j];
+                    A[j]=A[i];
+                    A[i]=t;
+                    j++;
+                }
             }
         }
-        evenList.addAll(oddList);
-        return evenList.stream().mapToInt(i -> i).toArray();
+        return A;
     }
 }
