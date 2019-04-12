@@ -15,11 +15,12 @@ class Solution {
             }
         }
         Iterator<Integer> iter = cards.values().iterator();
-        int myGcd = Integer.MAX_VALUE;
+        int myGcd = iter.next();
         
         while(iter.hasNext()){
+            System.out.println(myGcd);
             myGcd = gcd(myGcd,iter.next());
         }
-        return (myGcd<=2);
+        return (myGcd>1);
     }
 }
