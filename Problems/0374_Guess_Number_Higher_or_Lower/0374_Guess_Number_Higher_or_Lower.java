@@ -5,6 +5,19 @@
 
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
-        
+        int answer = n;
+        int offset = n/2;
+        while(guess(answer)!=0){
+            //lower
+            if(guess(answer)==-1){
+                answer-=offset;
+            }
+            //higher
+            else{
+                answer+=offset;
+            }
+            offset=(int)Math.ceil(offset/2.0);
+        }
+        return answer;
     }
 }
