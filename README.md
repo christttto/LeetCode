@@ -28,6 +28,7 @@
 | 0067 | [Add_Binary](https://leetcode.com/problems/add-binary/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0067_Add_Binary/0067_Add_Binary.js) |  |
 | 0069 | [Sqrt](https://leetcode.com/problems/sqrtx/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0069_Sqrt/0069_Sqrt.js) |  |
 | 0070 | [Climbing_Stairs](https://leetcode.com/problems/climbing-stairs/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0070_Climbing_Stairs/0070_Climbing_Stairs.js) |  |
+| 0075 | [Sort_Colors](https://leetcode.com/problems/sort-colors/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0075_Sort_Colors/0075_Sort_Colors.java) | Did it during a mock. Used the fact that there are only 3 categories I have to consider. |
 | 0079 | [Word_Search](https://leetcode.com/problems/word-search/submissions/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0079_Word_Search/0079_Word_Search.java) | Did not finish. logical error. |
 | 0083 | [Remove_Duplicates_from_Sorted_List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0083_Remove_Duplicates_from_Sorted_List/0083_Remove_Duplicates_from_Sorted_List.js) |  |
 | 0100 | [Same_Tree](https://leetcode.com/problems/same-tree/) | [JavaScript](https://github.com/christttto/LeetCode/blob/master/Problems/0100_Same_Tree/0100_Same_Tree.js) |  |
