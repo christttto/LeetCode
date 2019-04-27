@@ -1,11 +1,18 @@
 class Solution {
     private boolean shipHelper(int [] W,int D, int C){
-        
-        for(int i=0;i<D;i++){
-            int myCapacity=0;
-            while(myCapacity<C){
-                
+        //did my cargo fill up
+        //did I go over my day limit
+        int myD=0;
+        int myCargo;
+        int wCounter=0;
+        while(myD<D){
+            myCargo=0;
+            while(myCargo<C){
+                if(wCounter<W.length){
+                    
+                }
             }
+            myD++;
         }
         return false;
     }
