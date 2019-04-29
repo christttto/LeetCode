@@ -94,6 +94,9 @@
 | 0970 | [Powerful_Integers](https://leetcode.com/problems/powerful-integers/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/0970_Powerful_Integers/0970_Powerful_Integers.java) | done |
 | 1002 | [Find_Common_Characters](https://leetcode.com/problems/find-common-characters/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/1002_Find_Common_Characters/1002_Find_Common_Characters.java) | Had the idea, but had hard time coding it in. Need to finish. Eventually, got it to work, but needed to look at the answer. It is a good question, will have to try again later to understand the trick of using array almost like a dictionary. |
 | 1011 | [Capacity_To_Ship_Packages_Within_D_Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/1011_Capacity_To_Ship_Packages_Within_D_Days/1011_Capacity_To_Ship_Packages_Within_D_Days.java) | Got the idea right, but the implementation was taking too long. Looked at the answer. |
+| 1021 | [Remove_Outermost_Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Java](https://github.com/christttto/LeetCode/blob/master/Problems/1021_Remove_Outermost_Parentheses/1021_Remove_Outermost_Parentheses.java) | Done |
+
+
 
 
 
