@@ -1,20 +1,24 @@
 class Solution {
     public boolean isMonotonic(int[] A) {
-        if(A.length<=2) return true;
-        boolean firstTime=true;
-        boolean increasing=false;
+        if(A.length<2)return true;
+        int increase=0;
+        int prev=A[0];
         for(int i=1;i<A.length;i++){
-            if(A[i-1]>A[i]){//decreasing
-                if(firstTime) firstTime=false;
-                else if(increasing) return false;
-            }
-            else if(A[i-1]<A[i]){//increasing
-                if(firstTime){
-                    firstTime=false;
-                    increasing=true;
+            if(prev!=A[i]){//skip same number to previous
+                if(prev<A[i]){
+                    if(increase==0){
+                        increase=1;
+                    }
+                    else if(increase==2) return false;
                 }
-                else if(!increasing)return false;
+                else if(prev>A[i]){
+                    if(increase==0){
+                        increase=2;
+                    }
+                    else if(increase==1) return false;
+                }
             }
+            prev=A[i];
         }
         return true;
     }
