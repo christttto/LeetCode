@@ -9,9 +9,12 @@
  */
 class Solution {
     private boolean treeHelper(TreeNode root, int value){
-        if(r)
+        if(root==null)return true;
+        if(root.val!=value)return false;
+        return treeHelper(root.left,value)&&treeHelper(root.right,value);
     }
     public boolean isUnivalTree(TreeNode root) {
-        
+        if(root==null)return true;
+        return treeHelper(root,root.val);
     }
 }
