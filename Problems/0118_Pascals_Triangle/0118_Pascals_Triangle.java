@@ -1,21 +1,18 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        if(numRows<1)return new ArrayList<List<Integer>>();
-        //if numRows==1
-        List<List<Integer>> rowList = new ArrayList<List<Integer>>();
-        List<Integer> startList = new ArrayList<Integer>();
-        startList.add(1);
-        rowList.add(startList);
-        for(int i=1;i<numRows;i++){
-            List<Integer> prevRow = rowList.get(rowList.size()-1);
-            ArrayList newRow = new ArrayList<Integer>();
-            newRow.add(1);
-            for(int j=0;j<prevRow.size()-1;j++){
-                newRow.add(prevRow.get(j)+prevRow.get(j+1));
+        // if(numRows==0){ return null;}
+        // if(numRows==1){
+        //     return List();
+        // }
+        List returnList = new ArrayList();
+        for(int j=0;j<numRows;j++){
+            List<Integer> myList = new ArrayList<>();
+            myList.add(1);
+            for(int k =0; k<j;k++){
+                myList.add(myList.get(k)*(j-k)/(k+1));
             }
-            newRow.add(1);
-            rowList.add(newRow);
+            returnList.add(myList);
         }
-        return rowList;
+        return returnList;
     }
 }
